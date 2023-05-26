@@ -1,0 +1,26 @@
+body { 
+font-family: Cormorão; 
+margin: 0; 
+padding: 20px; 
+background-color: #F08080	; 
+color: #333;
+ }
+h1 { 
+color: #555; 
+text-align: center; 
+} 
+section {
+background-color: #F0FFF0; 
+padding: 20px; 
+margin-bottom: 20px; 
+border-radius: 5px; 
+} 
+h2 {
+color: #007bff; }
+p {
+line-height: 1.5;
+ }
+ button{
+background-color:#C0C0C0; 
+
+}
